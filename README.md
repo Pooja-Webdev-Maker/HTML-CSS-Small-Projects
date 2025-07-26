@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-\# HTML CSS Small Projects
+# HTML CSS Small Projects
 
 
 
@@ -47,4 +46,4 @@ A tribute page dedicated to [Person's Name].
 ---
 
 Created with 💙 by Pooja.
->>>>>>> 538331fe89aba8c038096e8a8be69f13ffa665b6
+
