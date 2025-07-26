@@ -8,7 +8,7 @@ A tribute page dedicated to [Person's Name].
 
 ### 🔍 Screenshot
 
-![Tribute Page Screenshot](Project-1/tribute-page.j.p.g)
+![Tribute Page Screenshot](Project-1/tribute-page.jpg)
 
 ---
 
