@@ -13,3 +13,15 @@ A tribute page dedicated to [A.P.J Abadul Kalam].
 
 Created with 💙 by Pooja.
 
+
+---
+
+### 📁 Project-2: Job Application Form
+
+A simple job application form built using HTML and CSS. It contains form fields such as name, email, experience, and a submit button.
+
+🔍 **Tech Used:** HTML + CSS
+
+📸 **Screenshot:**
+
+![Job Application Form](./Project-2/JobApplicationForm.jpg)
