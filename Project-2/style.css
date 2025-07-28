@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://plus.unsplash.com/premium_photo-1666863909125-3a01f038e71f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzZ8fG5hdHVyZXxlbnwwfHwwfHx8MA%3D%3D);
+    background-size: cover;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+.box-apply{
+    margin: 0 auto;
+    max-width: 600px;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 4px 3px 5px rgba(1, 1, 1, 0.1);
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.title-small{
+    font-size: 22px;
+    font-weight: 500;
+}
+.form-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(200px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+}
+.form-control{
+    display: flex;
+    flex-direction: column;
+}
+label{
+    margin-bottom: 5px;
+}
+input, select, textarea{
+    padding: 12px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+input:focus{
+outline-color: red;
+
+}
+.btn-container{
+    display: flex;
+    justify-content: end;
+}
+button{
+    background-color: red;
+    margin-top: 10px;
+    padding: 5px 10px;
+    color: white;
+    font-size: 18px;
+    border: transparent 2px solid;
+    border-radius: 5px;
+    transition: 0.3s ease-in;
+}
+button:hover{
+    background-color: #ccc;
+    border: 2px solid red;
+    color: black;
+     transition: 0.3s ease-out;
+     cursor: pointer;
+}
+.textArea-control{
+    grid-column: 1 / span 2;
+}
+.textArea-control textarea{
+    width: 100%;
+}
+@media(max-width : 450px){
+    .textArea-control{
+    grid-column: 1 / span 1;
+}
+}
