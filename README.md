@@ -29,12 +29,17 @@ A simple job application form built using HTML and CSS. It contains form fields 
 
 ---
 
-📁 **Project-3: Parallax Website**
+## 📁 Project-3: Parallax Website
 
-A visually engaging parallax website created using only HTML and CSS. It features a parallax scrolling effect with background images that move at a different speed than the foreground content.
+A basic parallax scrolling website using HTML and CSS.
 
-🔍 **Tech Used:** HTML, CSS
+🔍 **Tech Used**: HTML + CSS
 
-🎥 **Demo Video:**  
-[▶️ Click to Watch Demo](./Project-3/images/Parallaxwebsite.mp4)
+📸 **GIF Preview**:
 
+![Parallax Demo](images/parallax.gif)
+
+🎯 **Features**:
+- Parallax scrolling effect
+- Responsive layout
+- Simple and clean design
