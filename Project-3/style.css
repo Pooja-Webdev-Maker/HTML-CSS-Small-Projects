@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    font-family: Arial, sans-serif;
+}
+
+.p-image1 {
+    background-image: url('images/image1.png');
+    min-height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+    color: white;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+}
+
+.text-bg {
+    background-color: rgb(40, 38, 38);
+    padding: 22px 22px;
+}
+
+.section-1,
+.section-2 {
+    min-height: 400px;
+    background-color: rgb(209, 206, 206);
+    padding-top: 20px;
+
+}
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: normal;
+    color: rgb(103, 101, 101);
+
+}
+
+.lorem-text {
+    text-align: center;
+    padding: 20px 60px;
+    color: gray;
+}
+
+.p-image2 {
+    min-height: 400px;
+    background-image: url('images/image2.png');
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+.section-2 {
+    background-color: rgb(57, 55, 55);
+}
+
+.text-section2 {
+    font-size: 30px;
+    color: white;
+    font-weight: normal;
+    letter-spacing: 4px;
+
+}
+
+.p-image3 {
+    min-height: 400px;
+    background-image: url('images/image3.png');
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+.text-bg3 {
+    background-color: transparent;
+    font-size: 45px;
+}
