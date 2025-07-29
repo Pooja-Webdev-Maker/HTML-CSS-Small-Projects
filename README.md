@@ -37,7 +37,7 @@ A basic parallax scrolling website using HTML and CSS.
 
 📸 **GIF Preview**:
 
-![Parallax Demo](images/parallax.gif)
+![Parallax Demo](Project-3/images/parallax.gif)
 
 🎯 **Features**:
 - Parallax scrolling effect
