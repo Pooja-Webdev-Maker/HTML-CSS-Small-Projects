@@ -43,3 +43,39 @@ A basic parallax scrolling website using HTML and CSS.
 - Parallax scrolling effect
 - Responsive layout
 - Simple and clean design
+
+
+
+# 📱 Project-4: Developer Landing Page
+
+A clean and modern developer landing page built using HTML and CSS. This page showcases different development domains and is fully responsive across devices.
+
+---
+
+## 🔧 Tech Used:
+- HTML5
+- CSS3
+
+---
+
+## 📽️ GIF Preview:
+
+![landing page Demo](Project-4/images/LandingPage.gif)
+
+---
+
+## 🎯 Features:
+
+- 📱 **Responsive Design** — Mobile-friendly layout that adapts to all screen sizes.
+- ✨ Clean and minimal design.
+- 📂 Organized sections for:
+  - Web Development
+  - Mobile Development
+  - UI/UX Design
+  - Full-stack Development
+
+---
+
+## 📁 Folder Structure:
+
+
