@@ -1,0 +1,182 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    /* background-color: gainsboro; */
+}
+
+.container {
+    min-height: 100vh;
+    background-image: url(images/developer.png);
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 10px;
+    padding-top: 45px;
+
+}
+
+.heading {
+    font-size: 5rem;
+    color: rgb(239, 227, 227);
+}
+
+span {
+    font-size: 40px;
+    color: white;
+}
+
+.profile-text {
+    font-size: 3rem;
+    color: white;
+    text-transform: uppercase;
+}
+
+.section-2 {
+    min-height: 30vh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+.text {
+    /* background-color: brown; */
+    font-size: 55px;
+    text-transform: uppercase;
+    color: white;
+    font-weight: normal;
+}
+
+.big-text {
+    font-size: 6rem;
+}
+
+.card-container {
+    margin-top: 105px;
+    margin-left: 100px;
+}
+
+.card{
+    width: 360px;
+    background-color: white;
+    /* padding: 10px; */
+    padding-bottom: 60px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: 0.2s ease-in;
+}
+.card:hover{
+    transform: scale(1.04);
+      transition: 0.2s ease-out;
+}
+
+.img-container {
+    /* width: 100%; */
+    /* text-align: center; */
+}
+
+img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.card-disc {
+    margin-top: 4rem;
+}
+
+.para1,
+.para2 {
+    font-weight: normal;
+    color: rgb(78, 76, 76);
+}
+
+.para2 {
+    margin-top: 20px;
+    /* text-align: justify; */
+}
+
+.card-disc {
+    padding: 0 20px;
+}
+
+.section-3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 4rem;
+}
+
+.section-4{
+    display: flex;
+}
+.contact{
+    background-color: #515603;
+}
+.about{
+    background-color: #722300;
+}
+.contact, .about{
+    min-height: 300px;
+    padding: 35px;
+    color: whitesmoke;
+   
+}
+.contact-heading, .about-heading{
+    text-align: center;
+    font-size: 4rem;
+}
+.desc{
+    margin-top: 2rem;
+    line-height: 24px;
+}
+.email{
+    margin-top: 2rem;
+}
+.desc-2{
+    margin-top: 35px;
+}
+footer{
+    min-height: 150px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h2{
+    color: white;
+    text-transform: uppercase;
+
+}
+@media(max-width : 750px){
+   .container{
+     min-height: 50vh;
+   }
+   .heading,.profile-text{
+    text-align: center;
+    
+   }
+   .text, span{
+    text-align: center;
+   }
+   .section-3 {
+    flex-direction: column;
+    align-items: center;
+}
+.section-4{
+    flex-direction: column;
+}
+}
