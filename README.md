@@ -78,4 +78,44 @@ A clean and modern developer landing page built using HTML and CSS. This page sh
 
 ## 📁 Folder Structure:
 
+# 🍉 Project-5: Responsive Landing Page
+
+A modern, clean, and responsive landing page built with **HTML** and **CSS**. This project showcases a grid-based product/service layout, perfect for real-world websites. It’s part of my hands-on practice to improve layout design and responsive UI skills.
+
+![Project Demo](Project-5/images/project5gif.gif)
+
+---
+
+## 📚 What I Learned
+
+While creating this landing page, I worked on:
+
+- ✅ **CSS Grid Layout** for product arrangements
+- ✅ **Responsive Web Design** using media queries
+- ✅ Using **Flexbox** for header and footer layout
+- ✅ **Box Model**, spacing, and alignment
+- ✅ Designing **mobile-first** UI
+
+This helped me enhance my CSS structure, responsive layout building, and confidence in creating more complex designs.
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5**
+- **CSS3**
+  - CSS Grid
+  - Flexbox
+  - Media Queries
+
+---
+
+## ✨ Features
+
+- 📱 **Fully responsive** on all screen sizes
+- 💡 Clean, structured HTML and modular CSS
+- 🖼️ Grid-based product layout with images
+- 🧰 Realistic use-case: service/product showcase landing page
+
+
 
