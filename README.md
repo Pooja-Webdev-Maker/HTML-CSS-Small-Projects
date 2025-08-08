@@ -135,7 +135,7 @@ A **professional Apple landing page clone**, fully responsive and visually appea
 
 ## 📸 Demo
 
-![music website Demo](Project-6/images/project6.gif)
+![music website Demo](Project-6/Images/project6.gif)
 
 ---
 
