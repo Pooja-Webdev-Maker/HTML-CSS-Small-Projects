@@ -119,3 +119,42 @@ This helped me enhance my CSS structure, responsive layout building, and confide
 
 
 
+
+# Project-6: music Website
+
+### 👩‍💻 Day 6 - HTML CSS Small Projects Challenge
+
+A **professional Apple landing page clone**, fully responsive and visually appealing, built using:
+
+- ✅ CSS Flexbox  
+- ✅ CSS Box Model  
+- ✅ Responsive Layout Techniques  
+- ✅ CSS Positioning (Relative, Absolute)  
+
+---
+
+## 📸 Demo
+
+![music website Demo](Project-6/images/project6.gif)
+
+---
+
+
+---
+
+## 🧠 What I’m Learning
+
+This project helped me improve:
+
+- Understanding of **CSS Flexbox**  
+- Mastering layout structure using the **Box Model**  
+- Creating **pixel-perfect landing pages**  
+- Working with **image overlays, alignment, and responsiveness**
+
+---
+
+
+
+
+
+
