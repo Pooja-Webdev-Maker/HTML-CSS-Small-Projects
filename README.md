@@ -154,6 +154,44 @@ This project helped me improve:
 ---
 
 
+# Project-7: JavaScript Website  
+
+## 📅 Day 7 - HTML CSS JavaScript Small Projects Challenge  
+
+A **dynamic and interactive website** built using HTML, CSS, and JavaScript to enhance my front-end development skills.  
+This project focuses on adding interactivity, DOM manipulation, and creating a smooth user experience.  
+
+### 🚀 Features  
+- ✅ Responsive design using CSS Flexbox and Grid  
+- ✅ Interactive elements powered by JavaScript  
+- ✅ DOM Manipulation and Event Handling  
+- ✅ Smooth animations and transitions  
+
+---
+
+## 📸 Demo  
+
+![JavaScript Website Demo](Project-7/javascript%20website.gif)  
+
+---
+
+## 🧠 What I’m Learning  
+
+This project helped me improve:  
+- Understanding and applying **JavaScript DOM Manipulation**  
+- Handling **user interactions** with Event Listeners  
+- Improving **problem-solving** skills in JS  
+- Writing **clean and reusable code**  
+
+
+---
+
+## 🛠️ Tech Stack  
+- **HTML5**  
+- **CSS3** (Flexbox, Grid, Transitions)  
+
+
+---
 
 
 
